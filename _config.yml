@@ -9,4 +9,4 @@ collections:
   posts:
     title: Blog
     output: true
-    description: "🖐️🍵"
+    description: ""
