@@ -5,8 +5,8 @@ remote_theme: daviddarnes/garth
 
 logo: /assets/images/logo.svg
 
-collections:
-  posts:
-    title: Blog
-    output: true
-    description: ""
+# collections:
+#   posts:
+#     title: Blog
+#     output: true
+#     description: ""
